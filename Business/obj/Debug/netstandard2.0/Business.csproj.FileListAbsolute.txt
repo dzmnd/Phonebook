@@ -1,0 +1,8 @@
+C:\Projects\Phonebook\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Projects\Phonebook\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Projects\Phonebook\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Projects\Phonebook\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Projects\Phonebook\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Projects\Phonebook\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Projects\Phonebook\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Projects\Phonebook\Business\obj\Debug\netstandard2.0\Business.pdb
