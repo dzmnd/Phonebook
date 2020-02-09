@@ -118,7 +118,7 @@ namespace PopulateDataSet
                                 command.Parameters[1].Value = user.name.first;
                                 command.Parameters[2].Value = user.name.last;
                                 command.Parameters[3].Value = user.dob.date;
-                                command.Parameters[4].Value = user.picture.medium;
+                                command.Parameters[4].Value = user.picture.large;
                                 if (command.ExecuteNonQuery() != 1)
                                 {
                                     throw new InvalidProgramException();
